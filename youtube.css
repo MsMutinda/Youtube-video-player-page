@@ -1,0 +1,65 @@
+body {
+
+}
+
+img {
+    width: 20px;
+    height: 20px;
+}
+
+ul {
+    list-style: none;
+    display: inline-block;
+}
+li {
+    display: inline-block;
+}
+
+.nav {
+    position: relative;
+    top: 0px;
+}
+p {
+    position: relative;
+    bottom: 5px;
+ }
+ 
+.center {
+    margin: auto;
+    position: relative;
+    left: 200px;
+    top: 7px;
+}
+
+.searchbar {
+    line-height: 28px;
+}
+
+#search {
+    position: relative;
+    right: 30px;
+    top: 6px;
+}
+
+#account {
+    position: relative;
+    top: 2px;
+    height: 26px;
+    width: 20px;
+}
+
+.nav-left {
+    position: relative;
+    bottom: 10px;
+    float: left;
+}
+
+.nav-right {
+    position: relative;
+    bottom: 40px;
+    float:right;
+}
+
+aside {
+
+}
