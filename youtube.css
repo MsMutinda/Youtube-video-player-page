@@ -9,11 +9,7 @@ body {
     width: 20px;
     height: 20px;
 }
-  
-iframe {
-    
-}
-
+ 
 #youtube {
     position: relative;
     bottom: 9px;
@@ -60,26 +56,71 @@ li {
 
 #first {
     position: relative;
-    top: 51px;
+    top: 55px;
     right: 180px;
  }
 
 #second {
     position: relative;
-    bottom: 610px;
-    left: 320px;
+    bottom: 635px;
+    right: 9px;
+}
+
+#proof {
+    position: relative;
+    bottom: 815px;
+    left: 260px;
+    width: 200px;
+}
+
+#gray {
+    position: relative;
+    left: 265px;
+    bottom: 815px;
+    color: gray;
+    font-size: 12px;
 }
 
 #third {
     position: relative;
-    bottom: 440px;
-    left: 56px;
+    bottom: 715px;
+    right: 9px;
+}
+
+#good {
+    position: relative;
+    bottom: 894px;
+    left: 260px;
+    width: 180px;
+}
+
+#goodgrey {
+    position: relative;
+    left: 265px;
+    bottom: 894px;
+    color: gray;
+    font-size: 12px;
 }
 
 #fourth {
     position: relative;
-    bottom: 270px;
-    right: 205px;
+    bottom: 810px;
+    right: 10px;
+}
+
+#way {
+    position: relative;
+    bottom: 990px;
+    left: 260px;
+    width: 200px;
+}
+
+#bebe {
+    position: relative;
+    left: 265px;
+    bottom: 990px;
+    color: gray;
+    font-size: 12px;
 }
 
 #firstp {
@@ -106,7 +147,7 @@ li {
     position: relative;
     width: 60px;
     height: 35px;
-    left: 745px;
+    left: 610px;
     bottom: 610px;
   }
 
@@ -185,8 +226,8 @@ button:hover {
 
 #next {
     position: relative;
-    bottom: 542px;
-    left: 320px;
+    bottom: 562px;
+    right: 8px;
 }
 
 #about {
@@ -198,7 +239,7 @@ button:hover {
 #auto {
     position: relative;
     bottom: 578px;
-    left: 655px;
+    left: 530px;
     font-size: 14px;
 }
 
