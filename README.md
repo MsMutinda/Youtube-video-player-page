@@ -6,4 +6,6 @@ Recreating youtube's video player page
 - HTML
 - CSS
 
+# Live Demo
+https://htmlpreview.github.io/?https://github.com/MsMutinda/Youtube-video-player-page/blob/master/youtube.html
 
